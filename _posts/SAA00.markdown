@@ -1,9 +1,11 @@
-      ---
-      layout: post | default | page
-      title:  Smart Sensors and Actuators
-      date:   2018 Dec 19
-      categories: jekyll update
-      ---
+---
+layout: post
+title:  "SAA0"
+date:   2018-12-19
+categories: jekyll update
+author: "sy0227"
+--- 
+
 
 
 This is my test
