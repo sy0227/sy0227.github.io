@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How can this possible?"
+title:  "Smart Sensors and Actuators"
 date:   2018-12-19
 categories: jekyll update
 author: "sy0227"
