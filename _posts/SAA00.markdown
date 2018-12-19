@@ -2,7 +2,7 @@
       layout: post | default | page
       title:  Smart Sensors and Actuators
       date:   2018 Dec 19
-      categories: String | Array of Strings Category / Categories 
+      categories: jekyll update
       ---
 
 
