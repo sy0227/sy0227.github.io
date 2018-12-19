@@ -1,9 +1,9 @@
-
----
-layout: post
-title:  "Smart Sensors and Actuators"
-categories: jekyll update
----
+      ---
+      layout: post | default | page
+      title:  Smart Sensors and Actuators
+      date:   2018 Dec 19
+      categories: String | Array of Strings Category / Categories 
+      ---
 
 
 This is my test
