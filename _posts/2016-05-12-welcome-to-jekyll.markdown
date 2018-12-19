@@ -13,9 +13,11 @@ My team tried to make a guiding robot.
 
 <https://www.dropbox.com/s/mcit25dn3jo0dbe/SAA%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.mp4?dl=0>
 
+
 * This is our final presentation.
 
 <https://www.dropbox.com/s/7siv05lwap9zkz8/SAA.pdf?dl=0>
+
 
 * This is a video using encorder for our robot.
 
@@ -25,6 +27,7 @@ My team tried to make a guiding robot.
 * This is a video using gyro sensor for our robot(not using color sensor).
 
 <https://www.dropbox.com/s/cm5u1izymftraco/2.%EC%9E%90%EC%9D%B4%EB%A1%9C.mp4?dl=0>
+
 
 * This is a video robot is checking floor.(Not a perfect simulation.)
 
