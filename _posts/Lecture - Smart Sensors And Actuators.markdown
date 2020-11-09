@@ -2,12 +2,12 @@
 layout: post
 title:  "Smart Sensors and Actuators"
 date:   2018-12-19
-categories: jekyll update
+categories: Lecture
 author: "sy0227"
 ---
 This is about lecture "Smart Sensors and Actuators".
 
-My team tried to make a guiding robot.
+My team made a guiding robot.
 
 <br> * This is our initial presentation.
 
