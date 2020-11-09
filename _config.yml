@@ -16,8 +16,7 @@ description: "<h3>Welcome!</h3><h1>Suyeon's blog</h1><h3>Hope you like it!</h3>"
 
 baseurl: / # the subpath of your site, e.g. /blog
 url: "http://sy0227.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+
 
 # Build settings
 markdown: kramdown
